@@ -1,1 +1,1 @@
-Code and Documantation are in the git folder.
+# Code and Documantation are in the git folder.
